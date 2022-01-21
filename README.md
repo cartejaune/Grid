@@ -2,9 +2,13 @@
 Python FTX Grid BOT
 
 Requis :
+
 ! pip install pandas
+
 ! pip install requests
+
 ! pip install ftx
+
 ! pip install dill
 
 
