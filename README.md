@@ -23,4 +23,5 @@ Il enregistre le prix courant, puis vérifiera si on est sipérieur ou inférieu
 
 Mettre a jour votre api, créer un sous compte pour tester adapter la paire dans le code ici pour AKRO/USDT
 
+Si vous n'avez pas de compte FTX, utilisez ce lien pour avoir une réduction sur vos frais de trading  [FTX](https://ftx.com/profile#a=8214881). 
 ++ Mr Robot
