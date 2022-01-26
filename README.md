@@ -41,6 +41,13 @@ Installer une règle crontab pour chaque minute
 > * * * * * chemindevotrefichier/grid.py
 
 
+```php
+
+use yii2tech\crontab\CronTab;
+
+$cronTab = new CronTab();
+
+```
 
 :+1: 
 
