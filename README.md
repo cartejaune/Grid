@@ -6,6 +6,8 @@
 
 Requis :
 
+unbutu >= 18.04
+
 >pip install pandas
 
 >pip install requests
