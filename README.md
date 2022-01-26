@@ -36,7 +36,7 @@ Ensuite acheter la 1/2 de ce montant en crypto
 Adapter les Variables du script python
 
 Installer sous un serveur Linux avec PYTHON3
-Installer une règle crontab
+Installer une règle crontab pour chaque minute
 
 >* * * * * chemindevotrefichier/grid.py
 
