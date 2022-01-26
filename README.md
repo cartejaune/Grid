@@ -1,6 +1,6 @@
-# Grid
+# Grid ![Latest Stable Version](https://img.shields.io/badge/Version-5.0-yellow)
 
-[![Latest Stable Version](https://img.shields.io/badge/Version-5.0-yellow)]
+
 
 ## Python FTX Grid BOT
 
