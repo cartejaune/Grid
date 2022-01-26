@@ -59,4 +59,21 @@ Installer une règle crontab pour chaque minute
 
 ![FTX GRID](https://raw.githubusercontent.com/cartejaune/Grid/main/Capture.JPG)
 
+
+
+# MAJ
+
+version 6: EN DEVELOP 
+
+Version 5: passage a un grille pour profiter des filantes + mofification de la vérification des ordres.
+
+version 4: passage des infos en variable + ajout d'une variation du montant Achat vente en fonction des plus haut et bas du mois
+
+Version 3: passage ordre limite dans le carnet et check si ordre by sell existant
+
+Version 2 : Buy Sell limit 2 % en fonction de prix
+
+Version 1 : Il enregistre le prix courant, puis vérifiera si on est supérieur ou inférieur de 1% et passera un ordre
+
+
 ++ Mr Robot
