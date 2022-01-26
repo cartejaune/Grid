@@ -19,8 +19,6 @@ import os.path
 #Installer une règle crontab
 # * * * * * chemindevotrefichier/grid.py
 #
-# Si vous aimez ce script offrez moi un café
-# BNB => 0xc815a83FB34DA7A2d2540D98f3E93e21Ac7bf2c3
 #
 ###################VARIABLES A ADAPTER ##############
 accountName = 'NOMSOUSREP'     # Nom Sous repertoire FTX
