@@ -1,8 +1,7 @@
 # Grid
 
-[![Latest Stable Version](https://poser.pugx.org/yii2tech/crontab/v/stable.png)](https://packagist.org/packages/yii2tech/crontab)
-[![Total Downloads](https://poser.pugx.org/yii2tech/crontab/downloads.png)](https://packagist.org/packages/yii2tech/crontab)
-[![Build Status](https://travis-ci.org/yii2tech/crontab.svg?branch=master)](https://travis-ci.org/yii2tech/crontab)
+[![Latest Stable Version](https://img.shields.io/badge/Version-5.0-yellow)]
+
 ## Python FTX Grid BOT
 
 Requis :
