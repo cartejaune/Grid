@@ -25,22 +25,22 @@ Mettre a jour votre api, créer un sous compte pour tester adapter la paire dans
 
 
 
-#           GRID BY MR ROBOTS V5.0 23-01-22
-#INSTALLATiON:
-#Somme minimale en USD/USDT/BTC a mettre 
-#dans votre sous-réperoire FTX : 
-#400 X le montant minimal de SELL de la crypto sur FTX
-#Ensuite acheter la 1/2 de ce montant en crypto
-#
-#Adapter les Variables ci dessous
-#Installer sous un serveur Linux avec PYTHON3
-#Installer une règle crontab
-# * * * * * chemindevotrefichier/grid.py
+##           GRID BY MR ROBOTS V5.0 23-01-22
+INSTALLATiON:
+
+Somme minimale en USD/USDT/BTC a mettre 
+dans votre sous-réperoire FTX : 
+mettre 400 X le montant minimal de SELL de la crypto sur FTX
+Ensuite acheter la 1/2 de ce montant en crypto
+
+Adapter les Variables du script python
+
+Installer sous un serveur Linux avec PYTHON3
+Installer une règle crontab
+ * * * * * chemindevotrefichier/grid.py
 
 
 
-
-
-:+1: Si vous n'avez pas de compte FTX, utilisez ce lien pour avoir une réduction sur vos frais de trading  [FTX](https://ftx.com/profile#a=8214881). 
+:+1: 
 
 ++ Mr Robot
