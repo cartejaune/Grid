@@ -54,4 +54,7 @@ Installer une règle crontab pour chaque minute
 
 :+1: 
 
+
+![FTX GRID](https://raw.githubusercontent.com/cartejaune/Grid/main/Capture.JPG)
+
 ++ Mr Robot
