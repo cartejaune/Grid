@@ -24,9 +24,11 @@ Grid Bot basic en Python
 
 A lancer en tache cron toute les minutes
 
-Il enregistre le prix courant, puis vérifiera si on est sipérieur ou inférieur de 1% et passera un ordre
+Il enregistre le prix courant, puis vérifiera si on un ou des ordres ont été exécuté. 
 
-Mettre a jour votre api, créer un sous compte pour tester adapter la paire dans le code ici pour AKRO/USDT
+Si oui il regarde le prix courant et regénèe un grid
+
+A tester sur un coin par cher avec un petit montant et ensuite à vous de voir
 
 
 
